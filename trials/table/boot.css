@@ -1,0 +1,50 @@
+
+
+.thead {
+ text-align: center;
+}
+
+.tr {
+  text-align: center;
+  vertical-align: central;
+}
+
+.city {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1em;
+  color: white;
+}
+
+caption {
+  margin-left: 20px;
+}
+
+.flag {
+  height: 40px;
+}
+
+.image {
+  height: 100px;
+  position: relative;
+  z-index: 1;
+  border-radius: 25px;
+}
+
+img {
+  height: 40px;
+}
+
+.city {
+  position: relative;
+  top: 60px;
+  z-index: 2;
+}
+
+.cityname {
+  font-size: 25px;
+}
+
+table {
+  font-family: "Comic Sans MS", "Times New Roman", serif;
+}
