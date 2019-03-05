@@ -18,7 +18,7 @@ import Home from './Home.vue'
 import Team from './Team.vue'
 import ProjectView from './ProjectView.vue'
 import ProjectEdit from './ProjectEdit.vue'
-
+import Contact from './Contact.vue'
 
 
 const router = new Router({
@@ -53,6 +53,11 @@ const router = new Router({
             path: '/projects/:id/edit',
             name: 'ProjectEdit',
             component: ProjectEdit
+        },
+        {
+            path: '/contact',
+            name: 'Contact',
+            component: Contact
         },
     ]
 })
