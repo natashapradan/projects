@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Crown Jewel",
+      "address": "Murlington, Mur Drive 6",
+      "image": "/src/assets/images/afford5.jpg",
+      "price": 175,
+      "distance": 25,
+      "floors": 5
+    },
+    {
+      "id": 2,
+      "title": "Modern Quarters",
+      "address": "Murlington, Catz Road 11",
+      "image": "/src/assets/images/afford14.jpg",
+      "price": 100,
+      "distance": 16,
+      "floors": 4
+    },
+    {
+      "id": 3,
+      "title": "Lux Condo",
+      "address": "Murlington, Ginger Ave 33",
+      "image": "/src/assets/images/afford4.jpg",
+      "price": 150,
+      "distance": 9,
+      "floors": 3
+    }
+  ]
+}

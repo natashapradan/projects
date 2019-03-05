@@ -1,0 +1,88 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Crown Jewel",
+      "city": "Murlington",
+      "street": "Mur Drive",
+      "house": 1,
+      "image": "/src/assets/images/afford5.jpg",
+      "price": 90,
+      "distance": 17,
+      "floors": 5,
+      "flats": [
+        {
+          "rooms": 1,
+          "area": 30,
+          "avail": true
+        },
+        {
+          "rooms": 2,
+          "area": 45,
+          "avail": false
+        },
+        {
+          "rooms": 3,
+          "area": 53,
+          "avail": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Modern Quarters",
+      "city": "Murlington",
+      "street": " Catz Road",
+      "house": 1,
+      "image": "/src/assets/images/afford14.jpg",
+      "price": 100,
+      "distance": 16,
+      "floors": 4,
+      "flats": [
+        {
+          "rooms": 1,
+          "area": 25,
+          "avail": false
+        },
+        {
+          "rooms": 2,
+          "area": 38,
+          "avail": false
+        },
+        {
+          "rooms": 3,
+          "area": 50,
+          "avail": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lux Condo",
+      "city": "Murlington",
+      "street": "Ginger Ave",
+      "house": "1",
+      "image": "/src/assets/images/afford4.jpg",
+      "price": 180,
+      "distance": 9,
+      "floors": 3,
+      "flats": [
+        {
+          "rooms": 1,
+          "area": 41,
+          "avail": true
+        },
+        {
+          "rooms": 2,
+          "area": 35,
+          "avail": true
+        },
+        {
+          "rooms": 3,
+          "area": 72,
+          "avail": false
+        }
+      ]
+    }
+  ]
+}
