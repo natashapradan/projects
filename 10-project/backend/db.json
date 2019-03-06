@@ -1,0 +1,121 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Crown Jewel",
+      "city": "Murlington",
+      "street": "Mur Drive",
+      "house": 1,
+      "image": "/src/assets/images/afford5.jpg",
+      "price": 90,
+      "distance": 17,
+      "floors": 5,
+      "flats": [
+        {
+          "rooms": 1,
+          "area": 30,
+          "avail": true
+        },
+        {
+          "rooms": 2,
+          "area": 45,
+          "avail": false
+        },
+        {
+          "rooms": 3,
+          "area": 53,
+          "avail": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Modern Quarte",
+      "city": "Murlington",
+      "street": " Catz Road",
+      "house": 1,
+      "image": "/src/assets/images/afford14.jpg",
+      "price": 100,
+      "distance": 16,
+      "floors": 4,
+      "flats": [
+        {
+          "rooms": 1,
+          "area": 25,
+          "avail": false
+        },
+        {
+          "rooms": 2,
+          "area": 38,
+          "avail": false
+        },
+        {
+          "rooms": 3,
+          "area": 50,
+          "avail": true
+        },
+        {
+          "rooms": 4,
+          "area": 123
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lux Condo",
+      "city": "Murlington",
+      "street": "Ginger Ave",
+      "house": "1",
+      "image": "/src/assets/images/afford4.jpg",
+      "price": 180,
+      "distance": 9,
+      "floors": 3,
+      "flats": [
+        {
+          "rooms": 1,
+          "area": 41,
+          "avail": true
+        },
+        {
+          "rooms": 2,
+          "area": 35,
+          "avail": true
+        },
+        {
+          "rooms": 3,
+          "area": 72,
+          "avail": false
+        }
+      ]
+    },
+    {
+      "flats": [
+        {
+          "rooms": 5,
+          "area": 123
+        },
+        {
+          "rooms": 2,
+          "area": 123
+        }
+      ],
+      "title": "gbhgb",
+      "city": "ghghg",
+      "street": "gghgb",
+      "distance": 12,
+      "house": "12",
+      "price": 123,
+      "floors": 1,
+      "id": 4
+    }
+  ],
+  "requests": [
+    {
+      "firstName": "Nataliia",
+      "lastName": "Pradan",
+      "email": "natasha.pradan@gmail.com",
+      "phone": "956610627",
+      "id": 1
+    }
+  ]
+}
