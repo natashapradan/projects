@@ -1,0 +1,183 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "toys",
+      "image": "src/assets/images/products/toys2.jpg",
+      "description": "Best to keep up your pet's active lifestyle and prevent illnesses",
+      "products": [
+        {
+          "id": 1,
+          "name": "Mousy",
+          "price": 10.50,
+          "quantity": 20,
+          "image": "/src/assets/images/products/mousy.jpg",
+          "description": "What is sweeter to catch than a big fat mouse"
+        },
+        {
+          "id": 2,
+          "name": "Mousy1",
+          "price": 12.50,
+          "quantity": 35,
+          "image": "/src/assets/images/products/mousy1.jpg",
+          "description": "What is sweeter to catch than a big fat mouse"
+        },
+        {
+          "id": 3,
+          "name": "Birdie",
+          "price": 15.75,
+          "quantity": 19,
+          "image": "/src/assets/images/products/birdie.jpg",
+          "description": "Every cat loves watching birds… and catching them"
+        },
+        {
+          "id": 4,
+          "name": "Birdie1",
+          "price": 13.25,
+          "quantity": 9,
+          "image": "/src/assets/images/products/birdie1.jpg",
+          "description": "Every cat loves watching birds… and catching them"
+        },
+        {
+          "id": 5,
+          "name": "Butterfly",
+          "price": 27.50,
+          "quantity": 3,
+          "image": "/src/assets/images/products/butterfly.jpg",
+          "description": "For real connoisseurs of hunting and lovers of nature"
+        },
+        {
+          "id": 6,
+          "name": "Butterfly1",
+          "price": 23.50,
+          "quantity": 5,
+          "image": "/src/assets/images/products/butterfly1.jpg",
+          "description": "For real connoisseurs of hunting and lovers of nature"
+        },
+        {
+          "id": 7,
+          "name": "Butterfly2",
+          "price": 21.75,
+          "quantity": 1,
+          "image": "/src/assets/images/products/butterfly2.jpg",
+          "description": "For real connoisseurs of hunting and lovers of nature"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "food",
+      "image": "src/assets/images/products/food.jpg",
+      "description": "Homemade recipes and delicious traditions in a modern form",
+      "products": [
+        {
+          "id": 1,
+          "name": "Chicken",
+          "price": 21.50,
+          "quantity": 42,
+          "image": "/src/assets/images/products/chicken.jpg",
+          "description": "Delicate poultry - for gourmet meals easy on stomach"
+        },
+        {
+          "id": 1,
+          "name": "Turkey",
+          "price": 30.25,
+          "quantity": 23,
+          "image": "/src/assets/images/products/turkey.png",
+          "description": "Delicate poultry - for gourmet meals easy on stomach"
+        },
+        {
+          "id": 1,
+          "name": "Lamb",
+          "price": 19.50,
+          "quantity": 18,
+          "image": "/src/assets/images/products/lamb.jpg",
+          "description": "Nothing tastes better than good old meat"
+        },
+        {
+          "id": 1,
+          "name": "Beef",
+          "price": 25.75,
+          "quantity": 6,
+          "image": "/src/assets/images/products/beef.jpeg",
+          "description": "Nothing tastes better than good old meat"
+        },
+        {
+          "id": 1,
+          "name": "Tuna",
+          "price": 29.75,
+          "quantity": 14,
+          "image": "/src/assets/images/products/tuna.jpeg",
+          "description": "Get your cat back to the roots with sea flavors"
+        },
+        {
+          "id": 1,
+          "name": "Salmon",
+          "price": 41.50,
+          "quantity": 3,
+          "image": "/src/assets/images/products/salmon.png",
+          "description": "Get your cat back to the roots with sea flavors"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "accessories",
+      "image": "src/assets/images/products/accessories.png",
+      "description": "Kitties like to look stylish and sleep in comfort too",
+      "products": [
+        {
+          "id": 1,
+          "name": "MyTie",
+          "price": 10.50,
+          "quantity": 20,
+          "image": "/src/assets/images/products/collar.jpg",
+          "description": "Your cat deserves a touch of luxury"
+        },
+        {
+          "id": 1,
+          "name": "MyTie1",
+          "price": 17.50,
+          "quantity": 20,
+          "image": "/src/assets/images/products/collar1.jpg",
+          "description": "Your cat deserves a touch of luxury"
+        },
+        {
+          "id": 1,
+          "name": "FaveBed",
+          "price": 41.50,
+          "quantity": 8,
+          "image": "/src/assets/images/products/bed.jpg",
+          "description": "Sleep has never been so pleasant"
+        },
+        {
+          "id": 1,
+          "name": "FaveBed1",
+          "price": 51.75,
+          "quantity": 7,
+          "image": "/src/assets/images/products/bed1.jpg",
+          "description": "Sleep has never been so pleasant"
+        },
+        {
+          "id": 1,
+          "name": "Scratchy",
+          "price": 31.50,
+          "quantity": 10,
+          "image": "/src/assets/images/products/scratcher.jpeg",
+          "description": "Do get one before they start scratching you"
+        },
+        {
+          "id": 1,
+          "name": "Scratchy1",
+          "price": 64.75,
+          "quantity": 20,
+          "image": "/src/assets/images/products/scratcher1.jpg",
+          "description": "Do get one before they start scratching you"
+        }
+      ]
+    }
+  ],
+  "pets": [],
+  "requests": [
+  ]
+}
