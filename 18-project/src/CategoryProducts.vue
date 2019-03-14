@@ -57,15 +57,15 @@
     methods: {
 
       addToCart(product) {
-        // let cartItems;
-        //
-        // if (localStorage.getItem('cartItems')) {
-        //   cartItems = JSON.parse(localStorage.getItem('cartItems'));
-        // } else {
-        //   cartItems = [];
-        // }
-        // cartItems.push(JSON.stringify(product));
-        localStorage.setItem('cartItems', JSON.stringify(product));
+        let cartItems;
+
+        if (localStorage.getItem('cartItems')) {
+          cartItems = JSON.parse(localStorage.getItem('cartItems'));
+        } else {
+          cartItems = [];
+        }
+        cartItems.push(product);
+        localStorage.setItem('cartItems', JSON.stringify(cartItems));
         this.$router.push('/cart');
       }
     }

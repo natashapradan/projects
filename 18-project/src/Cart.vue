@@ -24,7 +24,7 @@
     data() {
       return {
         title: 'products',
-        products: [JSON.parse(localStorage.getItem('cartItems'))]
+        products: JSON.parse(localStorage.getItem('cartItems'))
       }
     }
   }
