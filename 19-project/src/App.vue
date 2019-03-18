@@ -23,7 +23,10 @@
           <b-nav-item>
             <router-link to="/contact" class="text-white"><b>Contact Us</b></router-link>
           </b-nav-item>
-
+            <b-nav-item class="ml-auto">
+              <router-link to="/cart" class="text-white"><b>Your Cart <i
+                  class="fas fa-shopping-cart"></i></b></router-link>
+            </b-nav-item>
         </b-navbar-nav>
         <!--<b-navbar-nav ml-auto>-->
           <!--<b-nav-item>-->

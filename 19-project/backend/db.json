@@ -137,11 +137,12 @@
         {
           "id": 1,
           "name": "MyTie1",
-          "price": 17.5,
+          "price": 13.25,
           "quantity": 20,
           "image": "/src/assets/images/products/collar1.jpg",
           "description": "Your cat deserves a touch of luxury",
-          "discount": 13.25
+          "oldPrice": 17.5,
+          "discount": true
         },
         {
           "id": 1,
@@ -170,11 +171,12 @@
         {
           "id": 1,
           "name": "Scratchy1",
-          "price": 64.75,
+          "price": 50.15,
           "quantity": 20,
           "image": "/src/assets/images/products/scratcher1.jpg",
           "description": "Do get one before they start scratching you",
-          "discount": 50.15
+          "oldPrice": 64.75,
+          "discount": true
         }
       ]
     }

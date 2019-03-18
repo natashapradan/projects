@@ -15,8 +15,6 @@ Vue.use(VeeValidate, {
 import App from './App.vue'
 import Home from './Home.vue'
 import Pets from './Pets.vue'
-import ProjectView from './ProjectView.vue'
-import ProjectForm from './ProjectForm.vue'
 import Contact from './Contact.vue'
 import Success from './Success.vue'
 import Categories from './Categories.vue'
@@ -71,24 +69,9 @@ const router = new Router({
       component: PetsView
     },
     {
-      path: '/projects/:id',
-      name: 'ProjectView',
-      component: ProjectView
-    },
-    {
-      path: '/projects/:id/edit',
-      name: 'ProjectForm',
-      component: ProjectForm
-    },
-    {
       path: '/contact',
       name: 'Contact',
       component: Contact
-    },
-    {
-      path: '/add',
-      name: 'ProjectForm',
-      component: ProjectForm
     },
   ]
 })
