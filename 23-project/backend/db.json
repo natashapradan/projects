@@ -1,0 +1,179 @@
+{
+  "europeanCountries": [
+    {
+      "id": 1,
+      "title": "Estonia",
+      "image": "src/assets/images/europe/estonia.jpg",
+      "opportunities": [
+        {
+          "id": 1,
+          "name": "StartUp Incubator",
+          "funds": "up to $10k",
+          "deadline": "None",
+          "image": "/src/assets/images/europe/estonia/startUpIncubator.png",
+          "mvp": "Not necessary",
+          "terms": "Unknown %",
+          "relocation": "Tallinn",
+          "duration": "undefined",
+          "description": "An Estonian accelerator with 70% of alumni successfully operating",
+          "apply": "https://www.startupincubator.ee/en/"
+        },
+        {
+          "id": 2,
+          "name": "StartUp Wise Guys",
+          "funds": "up to $30k",
+          "deadline": "None",
+          "image": "/src/assets/images/europe/estonia/startUpWiseGuys.jpg",
+          "mvp": "Necessary",
+          "terms": "Up to 9 %",
+          "relocation": "Tallinn or Riga",
+          "duration": "12 weeks",
+          "description": "A European accelerator collaborating with Microsoft and Google",
+          "apply": "https://startupincluder.com/#/company/application/new/8450/s5g93opwavbe6ogznv46yzeqbwzd916m"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Germany",
+      "image": "src/assets/images/europe/germany.jpg",
+      "opportunities": [
+        {
+          "id": 1,
+          "name": "TechFounders",
+          "funds": "$25k",
+          "deadline": "31 of March",
+          "image": "/src/assets/images/europe/germany/techFounders.png",
+          "mvp": "Not necessary but preferred",
+          "terms": "No %",
+          "relocation": "Munich (4 days per month)",
+          "duration": "20 weeks",
+          "description": "One of the most renowned European accelerators",
+          "apply": "https://www.techfounders.com/application_form/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Denmark",
+      "image": "src/assets/images/europe/denmark.jpg",
+      "opportunities": [
+        {
+          "id": 1,
+          "name": "Next Step Challenge",
+          "funds": "Unknown",
+          "deadline": "None",
+          "image": "/src/assets/images/europe/denmark/nextStepChallenge.jpeg",
+          "mvp": "Not necessary but preferred",
+          "terms": "No %",
+          "relocation": "Esbjerg or Vejle",
+          "duration": "20 weeks",
+          "description": "A Danish accelerator specializing among others in Tourism",
+          "apply": "https://nextstepchallenge.com/apply/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Poland",
+      "image": "src/assets/images/europe/poland.png",
+      "opportunities": [
+        {
+          "id": 1,
+          "name": "Huge Thing",
+          "funds": "up to 45k EUR",
+          "deadline": "April 2019",
+          "image": "/src/assets/images/europe/poland/hugeThing.png",
+          "mvp": "Necessary",
+          "terms": "No %",
+          "relocation": "Warsaw",
+          "duration": "16 weeks",
+          "description": "A promising accelerator collaborating with SpeedUpGroup venture fund",
+          "apply": "http://hugething.vc/poland-prize-powered-huge-thing/"
+        }
+      ]
+    }
+  ],
+  "us": [
+    {
+      "id": 1,
+      "name": "Y Combinator",
+      "funds": "$150k",
+      "deadline": "25 of March",
+      "image": "/src/assets/images/us/yCombinator.png",
+      "mvp": "Not necessary but preferred",
+      "terms": "7%",
+      "relocation": "Bay Area",
+      "duration": "12 weeks",
+      "description": "One of the greatest accelerators, it helped AirBnb, Dropbox, Reddit, Docker, Quora etc.",
+      "apply": "https://www.ycombinator.com/apply/"
+    },
+    {
+      "id": 2,
+      "name": "TechStars",
+      "funds": "$100k",
+      "deadline": "7 of April",
+      "image": "/src/assets/images/us/techStars.jpg",
+      "mvp": "Not necessary",
+      "terms": "6%",
+      "relocation": "Detroit or Singapore",
+      "duration": "13 weeks",
+      "description": "Another very big accelerator with a brilliant history",
+      "apply": "http://www.techstars.com/apply/"
+    }
+  ],
+  "ukraine": [
+    {
+      "id": 1,
+      "name": "UAngel",
+      "funds": "Varies",
+      "deadline": "None",
+      "image": "/src/assets/images/ukraine/uAngel.png",
+      "mvp": "Not necessary but preferred",
+      "terms": "Unknown %",
+      "relocation": "None",
+      "duration": "Undefined",
+      "description": "A Ukrainian network of private investors",
+      "apply": "https://gust.com/organizations/ukraine-angels-uangel"
+    },
+    {
+      "id": 2,
+      "name": "WannaBiz",
+      "funds": "$20-50K",
+      "deadline": "None",
+      "image": "/src/assets/images/ukraine/wannaBiz.png",
+      "mvp": "Necessary",
+      "terms": "Unknown %",
+      "relocation": "None",
+      "duration": "Undefined",
+      "description": "A venture fund for tech startups",
+      "apply": "http://wannabiz.com.ua/for-startups/#ApplyAnchor"
+    },
+    {
+      "id": 3,
+      "name": "GrowthUp",
+      "funds": "$25-50K",
+      "deadline": "Unknown",
+      "image": "/src/assets/images/ukraine/growthUp.png",
+      "mvp": "Not necessary",
+      "terms": "Unknown %",
+      "relocation": "None",
+      "duration": "Undefined",
+      "description": "Another venture fund",
+      "apply": "http://growthup.com/apply/"
+    },
+    {
+      "id": 4,
+      "name": "Chernovetskyi Inv. Group",
+      "funds": "Varies",
+      "deadline": "None",
+      "image": "/src/assets/images/ukraine/cig.jpg",
+      "mvp": "Necessary",
+      "terms": "Unknown %",
+      "relocation": "None",
+      "duration": "Undefined",
+      "description": "Helped Zakaz.ua, Doc.ua, Eda.ua, etc.",
+      "apply": "http://cig.vc/investment-it"
+    }
+  ]
+}
