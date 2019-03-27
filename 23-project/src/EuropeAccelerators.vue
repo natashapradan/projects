@@ -33,7 +33,7 @@
       <hr/>
       Deadline: <h4 class="style: text-danger">{{ opportunity.deadline }}</h4>
 
-      <b-button :href="opportunity.apply" class="btn btn-success btn-block mt-2">
+      <b-button :href="opportunity.apply" target='_blank' class="btn btn-success btn-block mt-2">
         <strong>Apply</strong>
       </b-button>
     </b-card>

@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <!--<h1>hl</h1>-->
-
     <b-navbar toggleable="lg" type="dark" variant="primary">
       <b-navbar-brand href="#">
 
@@ -28,18 +26,6 @@
                   class="fas fa-shopping-cart"></i></b></router-link>
             </b-nav-item>
         </b-navbar-nav>
-        <!--<b-navbar-nav ml-auto>-->
-          <!--<b-nav-item>-->
-            <!--<router-link to="/add" class="text-white"><b>Add New Project</b></router-link>-->
-          <!--</b-nav-item>-->
-        <!--</b-navbar-nav>-->
-
-        <!-- Right aligned nav items -->
-
-        <!--<b-navbar-nav class="ml-auto">-->
-        <!--<dropdown-options variant="secondary" :options="languages" optionKey="title" v-model="$i18n.locale"-->
-        <!--optionValue="language"/>-->
-        <!--</b-navbar-nav>-->
       </b-collapse>
     </b-navbar>
     <div class="container-fluid">

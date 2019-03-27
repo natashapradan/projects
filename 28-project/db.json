@@ -1,0 +1,63 @@
+{
+  "animals": [
+    {
+      "name": "tiger",
+      "fluffy": true,
+      "big": true,
+      "carnivore": true
+    },
+    {
+      "name": "elephant",
+      "fluffy": false,
+      "big": true,
+      "carnivore": false
+    },
+    {
+      "name": "hippo",
+      "fluffy": false,
+      "big": true,
+      "carnivore": false
+    },
+    {
+      "name": "lion",
+      "fluffy": true,
+      "big": true,
+      "carnivore": true
+    },
+    {
+      "name": "mouse",
+      "fluffy": true,
+      "big": false,
+      "carnivore": false
+    },
+    {
+      "name": "cat",
+      "fluffy": true,
+      "big": false,
+      "carnivore": true
+    },
+    {
+      "name": "otter",
+      "fluffy": true,
+      "big": false,
+      "carnivore": true
+    },
+    {
+      "name": "squirrel",
+      "fluffy": true,
+      "big": false,
+      "carnivore": false
+    }
+  ],
+  "questions": [
+    {
+      "question": "big"
+    },
+    {
+      "question": "fluffy"
+    },
+    {
+      "question": "carnivore"
+    }
+  ]
+}
